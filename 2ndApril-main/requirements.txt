@@ -1,4 +1,0 @@
-gunicorn
-flask == 2.3.1
-google-generativeai
-replicate
